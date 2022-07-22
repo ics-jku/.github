@@ -1,12 +1,3 @@
-## Hi there 👋
+## Welcome to the Institute for Complex Systems
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The Institute for Complex Systems (ICS) targets the ever-increasing complexity of hardware/software systems. Here, the institute considers suitable abstraction levels, i.e. Virtual Prototypes (VPs) in SystemC for HW/SW systems at the Electronic System Level (ESL), HW designs in Verilog/VHDL at the Register Transfer Level (RTL), down to the gate-level. Primary research areas are verification, debugging, and synthesis, all major problems in Electronic Design Automation (EDA). We heavily use the RISC-V ISA in our research work (see e.g. our open-source RISC-V VP).
